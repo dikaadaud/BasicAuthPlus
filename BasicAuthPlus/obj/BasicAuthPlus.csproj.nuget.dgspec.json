@@ -1,0 +1,63 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\KERJA\\MetroData\\Bootcamp\\C#\\BasicAuthPlus\\BasicAuthPlus\\BasicAuthPlus.csproj": {}
+  },
+  "projects": {
+    "D:\\KERJA\\MetroData\\Bootcamp\\C#\\BasicAuthPlus\\BasicAuthPlus\\BasicAuthPlus.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\KERJA\\MetroData\\Bootcamp\\C#\\BasicAuthPlus\\BasicAuthPlus\\BasicAuthPlus.csproj",
+        "projectName": "BasicAuthPlus",
+        "projectPath": "D:\\KERJA\\MetroData\\Bootcamp\\C#\\BasicAuthPlus\\BasicAuthPlus\\BasicAuthPlus.csproj",
+        "packagesPath": "C:\\Users\\dnhsh\\.nuget\\packages\\",
+        "outputPath": "D:\\KERJA\\MetroData\\Bootcamp\\C#\\BasicAuthPlus\\BasicAuthPlus\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\dnhsh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

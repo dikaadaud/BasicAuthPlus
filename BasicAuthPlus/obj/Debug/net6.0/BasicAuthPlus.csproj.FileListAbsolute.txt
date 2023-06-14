@@ -1,0 +1,15 @@
+D:\KERJA\MetroData\Bootcamp\C#\BasicAuthPlus\BasicAuthPlus\bin\Debug\net6.0\BasicAuthPlus.exe
+D:\KERJA\MetroData\Bootcamp\C#\BasicAuthPlus\BasicAuthPlus\bin\Debug\net6.0\BasicAuthPlus.deps.json
+D:\KERJA\MetroData\Bootcamp\C#\BasicAuthPlus\BasicAuthPlus\bin\Debug\net6.0\BasicAuthPlus.runtimeconfig.json
+D:\KERJA\MetroData\Bootcamp\C#\BasicAuthPlus\BasicAuthPlus\bin\Debug\net6.0\BasicAuthPlus.dll
+D:\KERJA\MetroData\Bootcamp\C#\BasicAuthPlus\BasicAuthPlus\bin\Debug\net6.0\BasicAuthPlus.pdb
+D:\KERJA\MetroData\Bootcamp\C#\BasicAuthPlus\BasicAuthPlus\obj\Debug\net6.0\BasicAuthPlus.csproj.AssemblyReference.cache
+D:\KERJA\MetroData\Bootcamp\C#\BasicAuthPlus\BasicAuthPlus\obj\Debug\net6.0\BasicAuthPlus.GeneratedMSBuildEditorConfig.editorconfig
+D:\KERJA\MetroData\Bootcamp\C#\BasicAuthPlus\BasicAuthPlus\obj\Debug\net6.0\BasicAuthPlus.AssemblyInfoInputs.cache
+D:\KERJA\MetroData\Bootcamp\C#\BasicAuthPlus\BasicAuthPlus\obj\Debug\net6.0\BasicAuthPlus.AssemblyInfo.cs
+D:\KERJA\MetroData\Bootcamp\C#\BasicAuthPlus\BasicAuthPlus\obj\Debug\net6.0\BasicAuthPlus.csproj.CoreCompileInputs.cache
+D:\KERJA\MetroData\Bootcamp\C#\BasicAuthPlus\BasicAuthPlus\obj\Debug\net6.0\BasicAuthPlus.dll
+D:\KERJA\MetroData\Bootcamp\C#\BasicAuthPlus\BasicAuthPlus\obj\Debug\net6.0\refint\BasicAuthPlus.dll
+D:\KERJA\MetroData\Bootcamp\C#\BasicAuthPlus\BasicAuthPlus\obj\Debug\net6.0\BasicAuthPlus.pdb
+D:\KERJA\MetroData\Bootcamp\C#\BasicAuthPlus\BasicAuthPlus\obj\Debug\net6.0\BasicAuthPlus.genruntimeconfig.cache
+D:\KERJA\MetroData\Bootcamp\C#\BasicAuthPlus\BasicAuthPlus\obj\Debug\net6.0\ref\BasicAuthPlus.dll
